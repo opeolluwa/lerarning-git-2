@@ -1,0 +1,5 @@
+/Users/USER/Desktop/devs/lerarning-git-2/build/CMakeFiles/sample.dir
+/Users/USER/Desktop/devs/lerarning-git-2/build/CMakeFiles/package.dir
+/Users/USER/Desktop/devs/lerarning-git-2/build/CMakeFiles/package_source.dir
+/Users/USER/Desktop/devs/lerarning-git-2/build/CMakeFiles/edit_cache.dir
+/Users/USER/Desktop/devs/lerarning-git-2/build/CMakeFiles/rebuild_cache.dir
